@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @douglaspero
+- 👀 I’m interested in web development and programming
+- 🌱 I’m currently learning advanced techniques in front-end and back-end development, focusing on React, Node.js, and database management
+- 💞️ I’m looking to collaborate on exciting web development projects, open-source initiatives, and innovative tech solutions
+- 📫 How to reach me: Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/douglaspero) or email me at douglaspero@example.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex coding challenges and am always eager to learn new technologies to stay ahead in the ever-evolving tech landscape.
